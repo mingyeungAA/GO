@@ -1,4 +1,4 @@
 # GO
-Study Go language!
+### Study Go language!
 
-Study with nomadcoders!
+#### Study with nomadcoders!
